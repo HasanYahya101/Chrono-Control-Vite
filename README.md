@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a classic timer Application that allows for Start, Stop, Reseting and Setting of laps. It can be used to kep track of time.
+This is a classic timer Application that allows for Start, Stop, Reseting and Setting of laps. It can be used to keep track of time.
 
 ## UI Library
 
