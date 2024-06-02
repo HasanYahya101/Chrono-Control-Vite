@@ -1,8 +1,8 @@
-# Tic Tac Toe (React + Vite)
+# Chrono Control (React + Vite)
 
 ## Introduction
 
-This is a classic Tic Tac Toe game. Players take turns placing their marks (either X or O) on a 3x3 grid. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins the game.
+This is a classic timer Application that allows for Start, Stop, Reseting and Setting of laps. It can be used to kep track of time.
 
 ## UI Library
 
@@ -13,9 +13,9 @@ Radix UI and ShadCN components were used to create the UI of the website. Moreov
 This project was deployed to Github Pages and can be tested there. No servers or databases were used in this Project.
 
 ## Preview
-![Screenshot 2024-05-28 055755](https://github.com/HasanYahya101/Tic-Tac-Toe-Vite/assets/118683092/3a98c544-9970-4941-858f-2c3fc0973d08)
-![Screenshot 2024-05-28 055819](https://github.com/HasanYahya101/Tic-Tac-Toe-Vite/assets/118683092/c56ff7da-7e7e-4ea4-85de-01f950ee8618)
-![Screenshot 2024-05-28 055837](https://github.com/HasanYahya101/Tic-Tac-Toe-Vite/assets/118683092/28a03319-d429-4eca-9009-ef024c0603c6)
+![Screenshot 2024-06-02 151049](https://github.com/HasanYahya101/Chrono-Control-Vite/assets/118683092/d7185b24-b256-4c59-a121-0e24f606bc35)
+![Screenshot 2024-06-02 151103](https://github.com/HasanYahya101/Chrono-Control-Vite/assets/118683092/65296cd0-9130-40f8-b87a-d2c77f9e594b)
+
 
 ## React + Vite
 
